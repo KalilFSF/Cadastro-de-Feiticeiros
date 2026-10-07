@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "502194838021",
+    "project_id": "fir-flutter-91e36",
+    "storage_bucket": "fir-flutter-91e36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502194838021:android:da70fac4d3c5ecad525a6c",
+        "android_client_info": {
+          "package_name": "com.example.feitfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502194838021-pm1ulohav0qh3ucqd9tdomfasjogtps5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnYEFMvHwaIF4vO_ThDVdUxCpr7S2Agbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502194838021-pm1ulohav0qh3ucqd9tdomfasjogtps5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502194838021-1hpjg5ci8pb1vlcj4ag2hk56smpl2rhj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.missaofire"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502194838021:android:bad4d9560d4ada12525a6c",
+        "android_client_info": {
+          "package_name": "com.example.fire_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502194838021-pm1ulohav0qh3ucqd9tdomfasjogtps5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnYEFMvHwaIF4vO_ThDVdUxCpr7S2Agbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502194838021-pm1ulohav0qh3ucqd9tdomfasjogtps5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502194838021-1hpjg5ci8pb1vlcj4ag2hk56smpl2rhj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.missaofire"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502194838021:android:27d1703905252a5f525a6c",
+        "android_client_info": {
+          "package_name": "com.example.missaofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502194838021-pm1ulohav0qh3ucqd9tdomfasjogtps5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnYEFMvHwaIF4vO_ThDVdUxCpr7S2Agbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502194838021-pm1ulohav0qh3ucqd9tdomfasjogtps5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502194838021-1hpjg5ci8pb1vlcj4ag2hk56smpl2rhj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.missaofire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
